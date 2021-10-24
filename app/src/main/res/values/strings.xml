@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hindutva</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interstitial_id_hindutava">ca-app-pub-7700686769056733/1556848111</string>
+    <string name="banner_id_hindutava">ca-app-pub-7700686769056733/4183011458</string>
+
+</resources>
